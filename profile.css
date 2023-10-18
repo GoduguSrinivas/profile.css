@@ -1,0 +1,51 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url("images/background.png");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profilebox
+{
+ background: white;
+ text-align: center;
+ padding: 40px 90px;
+ position: relative;
+ border-radius: 20px;
+}
+.menu-icon
+{
+    width: 25px;
+    position: absolute;
+    left: 40px;
+    right: 40px;
+    top: 40px;
+}
+.setting-icon
+{
+    width: 25px;
+    position: absolute;
+    left: 40px;
+    right: 40px;
+    top: 40px;
+}
+.profile-pic
+{
+    width: 25px;
+    position: absolute;
+    left: 40px;
+    right: 40px;
+    top: 40px;
+    border-radius: 50px;
+}
+.profile-bottom
+{
+    background-color: burlywood;
+    padding: 60px 0px;
+    margin-right: _90px;
+    margin-left: _90px;
+    border-radius: 20px;
+}
